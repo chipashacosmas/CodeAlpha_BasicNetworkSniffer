@@ -1,0 +1,7 @@
+captured_packets.csv
+*.pcap
+*.pcapng
+__pycache__/
+*.py[cod]
+.venv/
+venv/
