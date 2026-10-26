@@ -3,7 +3,7 @@
 **Organization:** CodeAlpha Cyber Security Internship  
 **Internship ID:** CA/DF1/324898  
 **Student:** Chipasha Cosmas  
-**Degree:** Bachelor of Science in Cybersecurity — Kwame Nkrumah University (KMU), Zambia  
+**Degree:** Bachelor of Science in Cybersecurity — Kapasa Makasa University (KMU), Zambia  
 **Task 01:** Basic Network Sniffer  
 
 ---
